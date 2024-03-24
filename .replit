@@ -1,0 +1,3 @@
+run = "/nix/store/r3kad11p2djphylpylp50qsqgwiaww4x-python3-wrapper/bin/python3 .compiler.py main.edablang"
+hidden = [".pythonlibs", ".compiler.py", "poetry.lock", "pyproject.toml"]
+entrypoint = "main.edablang"
